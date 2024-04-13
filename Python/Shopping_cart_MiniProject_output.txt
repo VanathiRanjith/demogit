@@ -1,0 +1,54 @@
+ C:\Users\India\anaconda3\envs\pythonProject1\python.exe E:\ITC\Shopping_cart_Miniproject_python.py 
+Shopping Cart Items:
+Serial No  Item       Quantity   Cost/Item 
+1          Biscuits   5          20.50     
+2          Cereals    10         90.00     
+3          Chicken    20         100.00    
+What do you want to purchase? 1
+How many Biscuits packets do you want to purchase: 4
+Do you want to continue shopping? (Y/N): Y
+Shopping Cart Items:
+Serial No  Item       Quantity   Cost/Item 
+1          Biscuits   1          20.50     
+2          Cereals    10         90.00     
+3          Chicken    20         100.00    
+What do you want to purchase? 2
+How many Cereals packets do you want to purchase: 51
+Available quantity of Cereals is 10
+Shopping Cart Items:
+Serial No  Item       Quantity   Cost/Item 
+1          Biscuits   1          20.50     
+2          Cereals    10         90.00     
+3          Chicken    20         100.00    
+What do you want to purchase? 2
+How many Cereals packets do you want to purchase: 9
+Do you want to continue shopping? (Y/N): Y
+Shopping Cart Items:
+Serial No  Item       Quantity   Cost/Item 
+1          Biscuits   1          20.50     
+2          Cereals    1          90.00     
+3          Chicken    20         100.00    
+What do you want to purchase? 3
+How many Chicken packets do you want to purchase: 12
+Do you want to continue shopping? (Y/N): N
+Enter your name: Vanathi
+Enter your address: London
+Enter the distance from the store (5/10/15/30): 24
+Delivery charge: 100 Rs will be levied for distance between 15 to 30km
+------------Bill---------------
+
+Serial No  Item            Quantity   Total Cost
+1          Biscuits        4          82.0      
+2          Cereals         9          810.0     
+3          Chicken         12         1200.0    
+Total items cost: 2092.0
+Total Bill Amount: Total items cost + Delivery charge is): 2192.0
+Name: Vanathi
+Address: London
+Have a nice day!
+Serial No  Item       Quantity   Cost/Item 
+1          Biscuits   1          20.50     
+2          Cereals    1          90.00     
+3          Chicken    8          100.00    
+
+Process finished with exit code 0
